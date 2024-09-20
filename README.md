@@ -11,10 +11,10 @@
 - CPU 최적화 탐색 알고리즘을 활용한 RMI (KCC 2024)
 
 ## Study
-- 2023 FTL Study[https://github.com/DKU-EmbeddedSystem-Lab/2023_FTL_Study]
-- 2024 Index Study[https://github.com/DKU-StarLab/IndexStructureJourney]
-- 2024 FTL Study[https://github.com/DKU-StarLab/SolidStateSquad]
-- 2024 VectorDB Study[https://github.com/DKU-StarLab/Vectory]
+- [[2023 FTL Study](https://github.com/DKU-EmbeddedSystem-Lab/2023_FTL_Study)]
+- [[2024 Index Study](https://github.com/DKU-StarLab/IndexStructureJourney)]
+- [[2024 FTL Study](https://github.com/DKU-StarLab/SolidStateSquad)]
+- [[2024 VectorDB Study](https://github.com/DKU-StarLab/Vectory)]
 
 <!---
 yeojin5/yeojin5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
