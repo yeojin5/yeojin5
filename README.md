@@ -4,11 +4,13 @@
 - my velog : https://velog.io/@yeojin5
 
 ## Education
-- dankook university EEE (2021 ~ )
+- dankook university EEE (2021 ~ 2024) 
+- dankook university Master of Computer Science (2021 ~ 2024)
 
 ## Paper
 - 이벤트 기반 차량 데이터 수집 및 분석 (KSC 2023)
-- CPU 최적화 탐색 알고리즘을 활용한 RMI (KCC 2024)
+- [Best Paper] CPU 최적화 탐색 알고리즘을 활용한 RMI (KCC 2024)
+- Beyond Traditional Search: SIMD-Optimized Correction for Learned Index (한국정보과학회 저널 2025)
 
 ## Study
 - [2023 FTL Study](https://github.com/DKU-EmbeddedSystem-Lab/2023_FTL_Study)
