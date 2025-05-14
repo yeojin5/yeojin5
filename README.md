@@ -10,7 +10,7 @@
 ## Paper
 - 이벤트 기반 차량 데이터 수집 및 분석 (KSC 2023)
 - [Best Paper] CPU 최적화 탐색 알고리즘을 활용한 RMI (KCC 2024)
-- Beyond Traditional Search: SIMD-Optimized Correction for Learned Index (한국정보과학회 저널 2025)
+- Beyond Traditional Search: SIMD-Optimized Correction for Learned Index (한국정보과학회 2025년 5월호)
 
 ## Study
 - [2023 FTL Study](https://github.com/DKU-EmbeddedSystem-Lab/2023_FTL_Study)
