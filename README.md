@@ -1,6 +1,6 @@
 ## Profile
 - 👋 Hi, I’m Yeojin Oh
-- 👀 I’m interested in computer system, HW-SW co-design, CXL ...
+- 👀 I’m interested in High Dimensional ANNS, VectorDB, System for AI...
 - my velog : https://velog.io/@yeojin5
 
 ## Education
