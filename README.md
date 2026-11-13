@@ -4,8 +4,8 @@
 - my velog : https://velog.io/@yeojin5
 
 ## Education
-- dankook university EEE (2021 ~ 2024) 
-- dankook university Master of Computer Science (2021 ~ 2024)
+- Dankook University Electrical and Electronic Engineering (2021 ~ 2024) 
+- Dankook University Master of Computer Science (2025 ~ 2027)
 
 ## Paper
 - 이벤트 기반 차량 데이터 수집 및 분석 (KSC 2023)
